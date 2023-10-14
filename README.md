@@ -55,7 +55,7 @@ Defina o método POST e use a seguinte URL:
 https://todolist-rocketseat-iq26.onrender.com/tasks/
 ```
 
-Passe as informações da task no Body no formato JSON.
+Passe as informações da tarefa no Body no formato JSON.
 
 Exemplo:
 ```json
@@ -75,12 +75,12 @@ https://todolist-rocketseat-iq26.onrender.com/tasks/
 ```
 
 ### Atualizar tarefa
-Defina o método PUT e use a seguinte URL, substituindo o `id` pelo id da task gerado automaticamente na criação da tarefa.
+Defina o método PUT e use a seguinte URL, substituindo o `id` pelo id da tarefa gerado automaticamente na criação da tarefa.
 ```
 https://todolist-rocketseat-iq26.onrender.com/tasks/id
 ```
 
-Passe as informações da task que deseja alterar no Body no formato JSON.
+Passe as informações da tarefa que deseja alterar no Body no formato JSON.
 
 Exemplo:
 ```json
@@ -96,7 +96,7 @@ Exemplo:
 
 3 - Rodar `mvn spring-boot:run` para subir a aplicação
 
-4 - A aplicação estará disponível na port `localhost:8080`
+4 - A aplicação estará disponível na porta `localhost:8080`
 
 5 - Use uma aplicação de requisições HTTP para fazer os testes 
 
