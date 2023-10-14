@@ -1,0 +1,10 @@
+br/com/elaineferreira/todolist/task/TaskModel.class
+br/com/elaineferreira/todolist/task/TaskController.class
+br/com/elaineferreira/todolist/user/UserModel.class
+br/com/elaineferreira/todolist/TodolistApplication.class
+br/com/elaineferreira/todolist/utils/Utils.class
+br/com/elaineferreira/todolist/errors/ExceptionHandlerController.class
+br/com/elaineferreira/todolist/task/ITaskRepository.class
+br/com/elaineferreira/todolist/user/IUserRepository.class
+br/com/elaineferreira/todolist/user/UserController.class
+br/com/elaineferreira/todolist/filter/FilterTaskAuth.class
