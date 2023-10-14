@@ -1,0 +1,10 @@
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/utils/Utils.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/user/IUserRepository.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/user/UserModel.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/TodolistApplication.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/task/TaskController.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/task/ITaskRepository.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/filter/FilterTaskAuth.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/user/UserController.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/task/TaskModel.java
+/home/elaine/GitHub/myNotebook/Rocketseat/java/todolist/src/main/java/br/com/elaineferreira/todolist/errors/ExceptionHandlerController.java
