@@ -24,7 +24,7 @@ Projeto realizado durante o curso de Java oferecido pela [Rocketseat](https://gi
 - [x] Atualização de tarefas
 
 ## ▶️ Como usar
-O deploy da aplicação foi realizado na plataforma [Render](render.com).
+O deploy da aplicação foi realizado na plataforma [Render](https://render.com).
 
 Use a URL `https://todolist-rocketseat-iq26.onrender.com` em uma aplicação de requisições HTTP como o Postman ou Inmsonia para testar a aplicação.
 
